@@ -26,3 +26,6 @@ spring-ioc-di-beans-autowired/mvnw
 spring-ioc-di-beans-autowired/mvnw.cmd
 spring-ioc-di-beans-autowired/.mvn/wrapper/maven-wrapper.jar
 spring-ioc-di-beans-autowired/.mvn/wrapper/maven-wrapper.properties
+spring-properties-value/.gitignore
+spring-properties-value/mvnw
+spring-properties-value/mvnw.cmd
