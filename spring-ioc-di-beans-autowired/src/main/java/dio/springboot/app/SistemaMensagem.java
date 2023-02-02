@@ -3,7 +3,7 @@ package dio.springboot.app;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import dio.springboot.app.classes.Remetente;
+import dio.springboot.app.model.Remetente;
 
 @Component
 public class SistemaMensagem {

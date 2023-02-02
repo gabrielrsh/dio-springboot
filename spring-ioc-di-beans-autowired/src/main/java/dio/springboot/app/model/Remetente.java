@@ -1,4 +1,4 @@
-package dio.springboot.app.classes;
+package dio.springboot.app.model;
 
 public class Remetente {
     private String nome;

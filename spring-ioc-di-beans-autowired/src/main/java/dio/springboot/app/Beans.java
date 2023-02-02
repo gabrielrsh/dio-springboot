@@ -6,14 +6,16 @@ import org.springframework.context.annotation.Scope;
 
 import com.google.gson.Gson;
 
-import dio.springboot.app.classes.Remetente;
+import dio.springboot.app.model.Remetente;
 
 @Configuration
 public class Beans {
+    
     @Bean
     public Gson gson(){
         return new Gson();
     }
+    
     @Bean
     @Scope("prototype")
     public Remetente remetente(){

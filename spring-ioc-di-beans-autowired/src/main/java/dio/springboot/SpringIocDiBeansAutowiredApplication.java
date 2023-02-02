@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 
 import dio.springboot.app.ConversorJson;
 import dio.springboot.app.SistemaMensagem;
-import dio.springboot.app.classes.ViaCepResponse;
+import dio.springboot.app.model.ViaCepResponse;
 
 
 @SpringBootApplication

@@ -1,9 +1,10 @@
-package dio.springboot.app.classes;
+package dio.springboot.app.model;
 
 public class ViaCepResponse {
     private String cep;
     private String logradouro;
     private String localidade;
+    
     public String getCep() {
         return cep;
     }

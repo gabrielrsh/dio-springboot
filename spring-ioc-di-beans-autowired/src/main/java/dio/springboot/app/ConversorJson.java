@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 import com.google.gson.Gson;
 
-import dio.springboot.app.classes.ViaCepResponse;
+import dio.springboot.app.model.ViaCepResponse;
 
 @Component
 public class ConversorJson {
