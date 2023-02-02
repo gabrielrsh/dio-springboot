@@ -31,3 +31,6 @@ spring-properties-value/mvnw
 spring-properties-value/mvnw.cmd
 spring-configuration-properties/.gitignore
 spring-configuration-properties/mvnw.cmd
+spring-data-jpa/.gitignore
+spring-data-jpa/mvnw
+spring-data-jpa/mvnw.cmd
